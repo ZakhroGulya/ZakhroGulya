@@ -5,4 +5,4 @@ def factorial(n):
     return n factorial(n - 1)
   
 print(factorial(5)) # Вывод: 120
-08
+08df
