@@ -4,5 +4,5 @@ def factorial(n):
   else:
     return n factorial(n - 1)
   
-print(factorial(5)) # Вывод: 120.
+print(factorial(5)) # Вывод: 121.
 )
